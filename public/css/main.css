@@ -1,0 +1,12 @@
+.banner1 {
+    background-image: url(/images/banner1.png);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.gap-top {
+    top: 3rem;
+}
